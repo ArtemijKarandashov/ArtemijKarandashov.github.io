@@ -14,3 +14,11 @@
 <li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/ISR_1.8" >ИСР 1.8</a></li>
 <li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/ISR_1.9" >ИСР 1.9</a></li>
 </ul>
+<p>ВСР:</p>
+<ul>
+<li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/VSR_2.1" >ВСР 2.1</a></li>
+<li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/VSR_2.2" >ВСР 2.2</a></li>
+<li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/VSR_2.3" >ВСР 2.3</a></li>
+<li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/VSR_2.4" >ВСР 2.4</a></li>
+<li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/VSR_2.5" >ВСР 2.5</a></li>
+</ul>
