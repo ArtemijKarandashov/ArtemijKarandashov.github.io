@@ -3,8 +3,8 @@
 
 Здраствуйте, это репозиторий для публикации заданий по ЭП-1
 
-ИСР:
-<ul>
+
+<ul>ИСР:
 <li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/ISR_1.2" >ИСР 1.2</a></li>
 <li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/ISR_1.3" >ИСР 1.3</a></li>
 <li><a href="https://github.com/ArtemijKarandashov/ArtemijKarandashov.github.io/tree/main/ISR_1.4" >ИСР 1.4</a></li>
